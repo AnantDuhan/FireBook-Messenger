@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944143503499",
+    "project_id": "firebook-messenger-d1370",
+    "storage_bucket": "firebook-messenger-d1370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944143503499:android:1d598147a460b72403448e",
+        "android_client_info": {
+          "package_name": "com.anantduhan.firebookmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944143503499-vsidd66rq5kuvfttravg0kubefpj9b0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAv013QNjX37XHOY8X6LwI3SpeKpRGcXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944143503499-vsidd66rq5kuvfttravg0kubefpj9b0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
